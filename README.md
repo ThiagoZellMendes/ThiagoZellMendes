@@ -1,5 +1,5 @@
 - 👋 Oi!, Meu nome é @ThiagoZellMendes, estudante de Sistemas de Informação.  
--                                            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoZellMendes&show_icons=true&theme=radical)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoZellMendes&show_icons=true&theme=radical)
 - 👀 Eu atualmente sou um programador em costrução, estou em transição de área, atualmente trabalho com contabilidade mas voltado a área Fiscal da mesma.
 - 🌱 No momento estudo JavaScript, React Web/Mobile...mas estou aberto a novos aprendizados.
 - 💞️ Estou a procura de estagios para desenvolver meu aprendizado
