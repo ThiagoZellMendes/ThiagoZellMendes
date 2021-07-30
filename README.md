@@ -1,6 +1,6 @@
-- 👋 Oi!, Meu nome é @ThiagoZellMendes, estudante de Sistemas de Informação.  
-- 👀 Eu atualmente sou um programador em costrução, estou em transição de área, atualmente trabalho com contabilidade mas voltado a área Fiscal da mesma.
-- 🌱 No momento estudo JavaScript, React Web/Mobile...mas estou aberto a novos aprendizados.
+- 👋 Oi!, Meu nome é Thiago Mendes, estudante de Sistemas de Informação.  
+- 👀 Eu sou um programador em construção, estou em transição de área, atualmente trabalho com contabilidade voltada para a área fiscal.
+- 🌱 No momento estudo JavaScript, React Web/Mobile...e estou aberto a novos aprendizados e oportunidades.
 - 💞️ Estou a procura de estagios para desenvolver meu aprendizado
 <div> 
   <a href="https://www.instagram.com/thiago.zell.mendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
