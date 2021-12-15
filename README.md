@@ -1,7 +1,7 @@
-- 👋 Oi!, Meu nome é Thiago Mendes, estudante de Sistemas de Informação.  
-- 👀 Eu sou um programador em construção, estou em transição de área, atualmente trabalho com contabilidade voltada para a área fiscal.
-- 🌱 No momento estudo JavaScript, React Web/Mobile...e estou aberto a novos aprendizados e oportunidades.
-- 💞️ Estou a procura de estagios para desenvolver meu aprendizado
+- 👋 Oi!, Meu nome é Thiago Mendes, graduando em Sistemas de Informação.  
+- 👀 Sou desenvolvedor React Native, que é a tecnologia que aprendi a amar!
+- 🌱 Minha principal liguagem é TypeScript, estudo python nos momentos de "lazer" hahah.
+- 💞️ Estou sempre aberto a novas oportunidades e aprendizados!
 <div> 
   <a href="https://www.instagram.com/thiago.zell.mendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-mendes-44176249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
