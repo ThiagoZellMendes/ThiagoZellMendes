@@ -25,7 +25,7 @@
   <img align="center" alt="Zell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Zell-Node" height="30" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
 
-  ![Snake animation](https://github.com/ThiagoZellMendes/ThiagoZellMendes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThiagoZellMendes/blob/output/github-contribution-grid-snake.svg)
   
  </div>  
 
