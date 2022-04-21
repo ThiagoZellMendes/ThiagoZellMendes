@@ -11,7 +11,7 @@
 
    ##
 
-<div flex-direction="row">
+<div flex-direction="row" justify-content= "space-between">
   <a href="https://github.com/ThiagoZellMendes">
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZellMendes&layout=compact&langs_count=4&theme=midnight-purple"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=ThiagoZellMendes&&count_private=true&hide=issues,contribs&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
