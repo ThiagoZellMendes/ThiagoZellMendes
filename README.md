@@ -13,7 +13,8 @@
 
 <div>
   <a href="https://github.com/ThiagoZellMendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZellMendes&layout=compact&langs_count=4&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZellMendes&layout=compact&langs_count=4&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoZellMendes&&count_private=true&hide=issues,contribs&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Zell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +25,7 @@
   <img align="center" alt="Zell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Zell-Node" height="30" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
 
-  ![Snake animation](https://github.com/ThiagoZellMendes/ThiagoZellMendes/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/ThiagoZellMendes/ThiagoZellMendes/blob/output/github-contribution-grid-snake.svg)-->
   
  </div>  
 
