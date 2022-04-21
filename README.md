@@ -11,10 +11,10 @@
 
    ##
 
-<div>
+<div flex-direction="row">
   <a href="https://github.com/ThiagoZellMendes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZellMendes&layout=compact&langs_count=4&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoZellMendes&&count_private=true&hide=issues,contribs&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZellMendes&layout=compact&langs_count=4&theme=midnight-purple"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=ThiagoZellMendes&&count_private=true&hide=issues,contribs&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Zell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
