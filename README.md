@@ -1,5 +1,5 @@
 - 👋 Oi!, Meu nome é Thiago Mendes, graduando em Sistemas de Informação.  
-- 👀 Sou desenvolvedor React Native, que é a tecnologia que aprendi a amar!
+- 👀 Sou desenvolvedor FullStack(React Native | Nodejs, NestJs).
 - 🌱 Minha principal liguagem é TypeScript, estudo python nos momentos de "lazer" hahah.
 - 💞️ Estou sempre aberto a novas oportunidades e aprendizados!
 <div> 
