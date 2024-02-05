@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Oi!, Meu nome é Thiago Mendes, Bacharelado em Sistemas de Informação.<br>👀 Sou desenvolvedor Mobile(React Native).<br>🌱 Minha principal liguagem é TypeScript, hahah.<br>💞️ Estou sempre aberto a novas oportunidades e aprendizados! 
+👋 Oi!, Meu nome é Thiago Mendes, Bacharelado em Sistemas de Informação.<br>👀 Sou desenvolvedor Front-end(React Native/ReactJs).<br>🌱 Minha principal liguagem é TypeScript, hahah.<br>💞️ Estou sempre aberto a novas oportunidades e aprendizados! 
 
 [![](https://visitcount.itsvg.in/api?id=ThiagoZellMendes&icon=2&color=0)](https://visitcount.itsvg.in)
 
